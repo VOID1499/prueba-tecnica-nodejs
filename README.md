@@ -2,6 +2,8 @@
 
 ---
 
+
+
 ## Requisitos
 
 Instalados en el sistema
@@ -11,6 +13,10 @@ Instalados en el sistema
 * **PostgreSQL**
 
 ---
+
+## Postman URL documentacion publica
+
+<https://www.postman.com/lively-flare-92708/prueba-tecnica-nodejs/
 
 ## Tecnologías utilizadas
 
